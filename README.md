@@ -1,6 +1,4 @@
-<img src="Assets/SwizzLogo.png">
-
-Swizz (Swift + Quizz) is a repository of twisted and exotic questions about the Swift programming language.
+TrivialPurSwift is a repository of twisted and exotic questions about the Swift programming language.
 Initially, the trivia was part of the [Frenchkit 2018](https://frenchkit.fr) "The Grand Reset" activities. 
 
 # Table of content
