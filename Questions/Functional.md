@@ -84,10 +84,10 @@ let a = array
 <details>
 <summary> What is the value of `a`? </summary>
 
-> A. `a` and `b` are [String?]?, `c` is [String]?   
-  B. `a` and `c` are [String], `b` is [String]?   
-  C. `c` does not compile.  
-  D. `a` and `b` are [String], `c` is [String]?   
+> A. 21.  
+  B. 3.  
+  C. Does not compile.  
+  D. 1.
 
 <details>
 <summary> Answer </summary>
