@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='ios' display-mode='raw' executeOnSourceChanges='false'>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
     <pages>
         <page name='Table of contents'/>
-        <page name='Protocol extension'/>
         <page name='Memory and Perfs'/>
         <page name='Functional'/>
         <page name='Foundation'/>
@@ -13,6 +12,6 @@
         <page name='ValueReferenceType'/>
         <page name='Retain Cycle'/>
         <page name='Defer'/>
-        <page name='Table '/>
+        <page name='Misleading'/>
     </pages>
 </playground>
