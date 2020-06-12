@@ -1,5 +1,7 @@
 TrivialPurSwift is a repository of twisted and exotic questions about the Swift programming language.
-Initially, the trivia was part of the [Frenchkit 2018](https://frenchkit.fr) "The Grand Reset" activities. 
+Initially, the trivia was part of the [Frenchkit 2018](https://frenchkit.fr) "The Grand Reset" activities.
+
+You can find the questions below or in the dedicated [playground](./Playground/FrenchKitQuizz.playground)
 
 # Table of content
 
